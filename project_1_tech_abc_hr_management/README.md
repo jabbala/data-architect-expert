@@ -25,3 +25,6 @@ The <a href="https://drive.google.com/file/d/14SgnE_0wNpuPdF5ss94GGqIBfcxLnpIF/v
 3. Run command to create tables: 'psql -f /home/workspace/02_ddl.sql'.
 4. Run command to insert data to tables: 'psql -f /home/workspace/03_dml.sql'.
 5. Run command to start answer questions and challenges: 'psql -f /home/workspace/Questions.sql' and 'psql -f /home/workspace/role.sql'.
+
+## Review Comments
+![alt text](reviews/review_message.jpg)
